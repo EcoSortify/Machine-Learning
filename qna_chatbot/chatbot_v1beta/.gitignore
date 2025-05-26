@@ -1,3 +1,4 @@
 .venv/
 .env
 ecosortify-vertex-sa.json
+.DS_Store
