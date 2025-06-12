@@ -1,0 +1,1 @@
+[Garbage Image Dataset](https://drive.google.com/drive/folders/1avVni7i1MNTh4IOeYP96sIuUStj8jv5a?usp=drive_link)
